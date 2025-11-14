@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuftanaDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScrip,HTML/CSS
+- 🌱 I’m currently learning Java,HTML/CSS
 - 💞️ I’m looking to collaborate on Web devlopment
 - 📫 How to reach me Rufana.Dev@gmail.com
 - 😄 Pronouns: He/Him
