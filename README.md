@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RuftanaDev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java,HTML/CSS
-- 💞️ I’m looking to collaborate on Web devlopment
-- 📫 How to reach me Rufana.Dev@gmail.com
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on......
+- 📫 How to reach me is by doing a little bit of digging on the internet
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Trying my best :)
+- ⚡ Fun fact: The Earth is flat
 
 <!---
 RuftanaDev/RuftanaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
